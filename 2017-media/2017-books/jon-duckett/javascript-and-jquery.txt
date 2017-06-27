@@ -1,0 +1,1 @@
+Sold in a set with his other book <em>HTML and CSS</em>, this book is a clear, concise and visually stunning guide to getting started with JavaScript. It walks you through loops step-by-step, iteration-by-iteration. The structure of this one is a bit looser, because it's organized by topic, but it's definitely designed for the visual learner. 
